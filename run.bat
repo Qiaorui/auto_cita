@@ -1,0 +1,1 @@
+py C:\Users\qiaor\PycharmProjects\auto_cita\main.py
